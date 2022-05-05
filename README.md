@@ -19,7 +19,7 @@ position of each employee (Manager, team leader, team member...).
 
 
 #### System Functionalities:
-❖ This application should enable the admin to:
+This application should enable the admin to:
 
 1. Adding new engineer.
 2. Edit existing engineer.
