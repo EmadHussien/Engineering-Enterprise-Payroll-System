@@ -31,5 +31,3 @@ position of each employee (Manager, team leader, team member...).
 8. Delete trainee.
 9. View all trainees with all their data and salaries.
 
-#### UML CLASS DIAGRAM
-<img src = "https://user-images.githubusercontent.com/31719363/167022286-c74991f9-f495-402f-b41f-2e7f98f9f918.png" width = 1200px />
