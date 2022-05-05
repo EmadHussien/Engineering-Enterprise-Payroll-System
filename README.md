@@ -32,4 +32,4 @@ position of each employee (Manager, team leader, team member...).
 9. View all trainees with all their data and salaries.
 
 #### UML CLASS DIAGRAM
-![image](https://user-images.githubusercontent.com/31719363/167020634-d561f96b-0326-486c-bfc1-6b38e09a4451.png)
+![image](https://user-images.githubusercontent.com/31719363/167022286-c74991f9-f495-402f-b41f-2e7f98f9f918.png)
