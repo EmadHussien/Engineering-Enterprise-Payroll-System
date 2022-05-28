@@ -1,9 +1,11 @@
 # Engineering Enterprise Payroll System
 
-This is a desktop application for managing the data of employees at a company and generating payroll process
+I developed this project in the object oriented programming university course.
+##### language used: Java.
+
+Project description: This is a desktop application for managing the data of employees at a company and generating payroll process
 for each one.
 
-This Application was designed to apply oop Principles using Java.
 
 #### Requirments List :
  
