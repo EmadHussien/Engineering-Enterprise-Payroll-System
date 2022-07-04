@@ -33,3 +33,7 @@ This application should enable the admin to:
 8. Delete trainee.
 9. View all trainees with all their data and salaries.
 
+##### UML Class Diagram:
+
+<img src= 'https://user-images.githubusercontent.com/31719363/177174736-160c239a-b0d3-4699-bed0-d7a62b7d5f1a.png' width='1200px' />
+
